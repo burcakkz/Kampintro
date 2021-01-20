@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Metotlar\Metotlar.csproj" />
-  </ItemGroup>
-
 </Project>
